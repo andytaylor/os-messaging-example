@@ -1,4 +1,5 @@
-openshift-jee-sample
+
+Openshift Messaging Example
 ====================
 
 A sample app to be deployed on openshift environments
